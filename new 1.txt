@@ -1,0 +1,15 @@
+"annual leave"
+"unpaid leave"
+"sick leave"
+"maternity leave"
+"compassionate leave"
+"business trip"
+
+
+1	Gmail	smtp.gmail.com	587
+2	Outlook	smtp.live.com	587
+3	Yahoo Mail	smtp.mail.yahoo.com	465
+4	Yahoo Mail Plus	plus.smtp.mail.yahoo.com	465
+5	Hotmail	smtp.live.com	465
+6	Office365.com	smtp.office365.com	587
+7	zoho Mail	smtp.zoho.com	465
